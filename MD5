@@ -1,0 +1,8 @@
+aa42170424d893441294cb7a1695ad6d *DESCRIPTION
+0e860419f90e5cb0bed039d993d66099 *LICENSE
+e78d7129a47a25513b57879ae14181d0 *NAMESPACE
+ec9454ffd2ddaab100dcbdeec93e8b95 *R/secrettext_funs.R
+e233acc55131db02a6a9f7ce47739641 *man/decode.Rd
+d751fc7b9379308df3e101ecc5af20f8 *man/setcode.Rd
+1e0149009bcba49c6c5504881eee14fc *tests/testthat.R
+48e3494e16c52486d435c567546943bf *tests/testthat/test-secrettext_funs.R
